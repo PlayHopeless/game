@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 7d4edf466ac693c4a993c32ef7af8c5d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Capsula
+    100002: Capsula001
+    100004: Capsula002
+    100006: Capsula003
+    100008: Capsula004
+    100010: cristal_pasillo
+    100012: elementos_pasillo
+    100014: //RootNode
+    100016: estructura_pasillo_00
+    100018: Traje
+    100020: Traje001
+    100022: Traje002
+    100024: Traje003
+    100026: Traje004
+    400000: Capsula
+    400002: Capsula001
+    400004: Capsula002
+    400006: Capsula003
+    400008: Capsula004
+    400010: cristal_pasillo
+    400012: elementos_pasillo
+    400014: //RootNode
+    400016: estructura_pasillo_00
+    400018: Traje
+    400020: Traje001
+    400022: Traje002
+    400024: Traje003
+    400026: Traje004
+    2300000: Capsula
+    2300002: Capsula001
+    2300004: Capsula002
+    2300006: Capsula003
+    2300008: Capsula004
+    2300010: cristal_pasillo
+    2300012: elementos_pasillo
+    2300014: estructura_pasillo_00
+    2300016: Traje
+    2300018: Traje001
+    2300020: Traje002
+    2300022: Traje003
+    2300024: Traje004
+    3300000: Capsula
+    3300002: Capsula001
+    3300004: Capsula002
+    3300006: Capsula003
+    3300008: Capsula004
+    3300010: cristal_pasillo
+    3300012: elementos_pasillo
+    3300014: estructura_pasillo_00
+    3300016: Traje
+    3300018: Traje001
+    3300020: Traje002
+    3300022: Traje003
+    3300024: Traje004
+    4300000: cristal_pasillo
+    4300002: elementos_pasillo
+    4300004: Capsula
+    4300006: Traje
+    4300008: Capsula001
+    4300010: Traje001
+    4300012: Capsula002
+    4300014: Traje002
+    4300016: Capsula003
+    4300018: Traje003
+    4300020: Capsula004
+    4300022: Traje004
+    4300024: estructura_pasillo_00
+    6400000: Capsula
+    6400002: Capsula001
+    6400004: Capsula002
+    6400006: Capsula003
+    6400008: Capsula004
+    6400010: cristal_pasillo
+    6400012: elementos_pasillo
+    6400014: estructura_pasillo_00
+    6400016: Traje
+    6400018: Traje001
+    6400020: Traje002
+    6400022: Traje003
+    6400024: Traje004
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: d7f569ecb404b514991d42a32cf061e1
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Armature
+    100002: cloning_tank
+    100004: //RootNode
+    100006: cloning_tank_mat1
+    100008: cloning_tank_mat2
+    100010: cloning_tank_mat3
+    100012: cloning_tank_mat4
+    100014: cloning_tank_mat5
+    100016: container_box
+    100018: container_box_0
+    100020: container_box_cover
+    100022: container_labels
+    100024: ground
+    100026: wheel_front_left
+    100028: wheel_front_right
+    100030: wheel_rear_left
+    100032: wheel_rear_right
+    400000: Armature
+    400002: //RootNode
+    400004: cloning_tank
+    400006: cloning_tank_mat1
+    400008: cloning_tank_mat2
+    400010: cloning_tank_mat3
+    400012: cloning_tank_mat4
+    400014: cloning_tank_mat5
+    400016: container_box
+    400018: container_box_0
+    400020: container_box_cover
+    400022: container_labels
+    400024: ground
+    400026: wheel_front_left
+    400028: wheel_front_right
+    400030: wheel_rear_left
+    400032: wheel_rear_right
+    4300000: cloning_tank_mat1
+    4300002: cloning_tank_mat2
+    4300004: cloning_tank_mat3
+    4300006: cloning_tank_mat4
+    4300008: cloning_tank_mat5
+    4300010: container_box
+    4300012: container_labels
+    9500000: //RootNode
+    13700000: cloning_tank_mat1
+    13700002: cloning_tank_mat2
+    13700004: cloning_tank_mat3
+    13700006: cloning_tank_mat4
+    13700008: cloning_tank_mat5
+    13700010: container_box
+    13700012: container_labels
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
