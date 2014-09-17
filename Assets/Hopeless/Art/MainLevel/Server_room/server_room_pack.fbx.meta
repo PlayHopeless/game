@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: c3917478c336e9c41ae890148ead9a88
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ServerFull_FloorMetal
+    100004: ServerFull_WallFront
+    100006: ServerRoom_CeilingBot
+    100008: ServerRoom_Floor
+    100010: ServerRoom_FloorBot
+    100012: ServerRoom_Remaches
+    100014: ServerRoom_Wall1Bot
+    100016: ServerRoom_Wall3_Bot
+    100018: ServerRoom_WallBot_001
+    100020: ServerRoom_Walls2_Bot
+    100022: ServerRoom_WallsSide_001
+    100024: ServerRoomFloorBot
+    400000: //RootNode
+    400002: ServerFull_FloorMetal
+    400004: ServerFull_WallFront
+    400006: ServerRoom_CeilingBot
+    400008: ServerRoom_Floor
+    400010: ServerRoom_FloorBot
+    400012: ServerRoom_Remaches
+    400014: ServerRoom_Wall1Bot
+    400016: ServerRoom_Wall3_Bot
+    400018: ServerRoom_WallBot_001
+    400020: ServerRoom_Walls2_Bot
+    400022: ServerRoom_WallsSide_001
+    400024: ServerRoomFloorBot
+    2300000: ServerFull_FloorMetal
+    2300002: ServerFull_WallFront
+    2300004: ServerRoom_CeilingBot
+    2300006: ServerRoom_Floor
+    2300008: ServerRoom_FloorBot
+    2300010: ServerRoom_Remaches
+    2300012: ServerRoom_Wall1Bot
+    2300014: ServerRoom_Wall3_Bot
+    2300016: ServerRoom_WallBot_001
+    2300018: ServerRoom_Walls2_Bot
+    2300020: ServerRoom_WallsSide_001
+    2300022: ServerRoomFloorBot
+    3300000: ServerFull_FloorMetal
+    3300002: ServerFull_WallFront
+    3300004: ServerRoom_CeilingBot
+    3300006: ServerRoom_Floor
+    3300008: ServerRoom_FloorBot
+    3300010: ServerRoom_Remaches
+    3300012: ServerRoom_Wall1Bot
+    3300014: ServerRoom_Wall3_Bot
+    3300016: ServerRoom_WallBot_001
+    3300018: ServerRoom_Walls2_Bot
+    3300020: ServerRoom_WallsSide_001
+    3300022: ServerRoomFloorBot
+    4300000: ServerRoom_WallBot_001
+    4300002: ServerRoom_WallsSide_001
+    4300004: ServerRoomFloorBot
+    4300006: ServerRoom_CeilingBot
+    4300008: ServerRoom_Wall3_Bot
+    4300010: ServerRoom_FloorBot
+    4300012: ServerRoom_Walls2_Bot
+    4300014: ServerRoom_Wall1Bot
+    4300016: ServerRoom_Remaches
+    4300018: ServerRoom_Floor
+    4300020: ServerFull_WallFront
+    4300022: ServerFull_FloorMetal
+    6400000: ServerFull_FloorMetal
+    6400002: ServerFull_WallFront
+    6400004: ServerRoom_CeilingBot
+    6400006: ServerRoom_Floor
+    6400008: ServerRoom_FloorBot
+    6400010: ServerRoom_Remaches
+    6400012: ServerRoom_Wall1Bot
+    6400014: ServerRoom_Wall3_Bot
+    6400016: ServerRoom_WallBot_001
+    6400018: ServerRoom_Walls2_Bot
+    6400020: ServerRoom_WallsSide_001
+    6400022: ServerRoomFloorBot
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
